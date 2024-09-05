@@ -1,6 +1,22 @@
 * {
   padding: 0%;
   margin: 0%;
-  background-color: azure;
   box-sizing: border-box;
+}
+
+.frt1 {
+  background-color: yellow;
+  margin-left: 20px;
+}
+#frt2 {
+  background-color: green;
+  margin: 20px;
+  padding-right: 20px;
+}
+.frt3 {
+  background-color: red;
+  margin: 20px;
+}
+h1 {
+  align-content: center;
 }
